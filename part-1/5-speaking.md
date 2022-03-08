@@ -54,7 +54,7 @@
 - go [g] 类似于汉语拼音声母g
 - how [h] 类似于汉语拼音声母h
 
->[EnglishAnyone](https://www.youtube.com/user/EnglishAnyone) 是学习口语非常棒的频道，主观的说，作者的发音相当标准、清晰
+>[EnglishAnyone](https://www.youtube.com/user/EnglishAnyone) 是学习口语非常棒的频道
 
 ## 大声说英语
 大声说英语和小声说英语的效果是大大不同的。
@@ -94,3 +94,7 @@
 - [Doing English with Julian Northbrook](https://www.youtube.com/user/doingenglishDOTcom) 
 
 >学习频道不在多，在于多加练习；如果你有不错的频道想要推荐，请提交issue
+
+## 勇敢地与陌生人交流
+
+ [我们为何害怕与陌生生交流](../part-2/why-we-are-afraid-to-communicate-with-strangers.md)
